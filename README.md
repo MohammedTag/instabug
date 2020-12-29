@@ -13,5 +13,5 @@ app that fetches HTML Response from the instabug website , does some processing 
 * MVVM and live data
 
 ## improvments
-* add testing 
+* add more unit testing 
 * separate layers to be layer per module for more modularity in the project
